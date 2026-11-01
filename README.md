@@ -12,9 +12,9 @@ A fejlesztés forrásrepója (privát / fejlesztői): [htlearningacc/PROJ_metron
 
 <table>
   <tr>
-    <td width="33%" align="center"><img src="screenshots/01-home-idle.png" width="240" alt="Fő képernyő"><br>Fő képernyő, indítás előtt</td>
-    <td width="33%" align="center"><img src="screenshots/02-continuous-methods.png" width="240" alt="Folyamatos módok"><br>Gyakorlásválasztás: folyamatos módok</td>
-    <td width="33%" align="center"><img src="screenshots/03-sequence.png" width="240" alt="Sorozat"><br>Sorozat: mentés és részek</td>
+    <td width="33%" align="center" valign="top"><img src="screenshots/01-home-idle.png" width="240" alt="Fő képernyő"><br>Fő képernyő, indítás előtt</td>
+    <td width="33%" align="center" valign="top"><img src="screenshots/02-continuous-methods.png" width="240" alt="Folyamatos módok"><br>Folyamatos módok</td>
+    <td width="33%" align="center" valign="top"><img src="screenshots/03-sequence.png" width="240" alt="Sorozat"><br>Sorozatok</td>
   </tr>
 </table>
 
