@@ -8,16 +8,12 @@ A fejlesztés forrásrepója (privát / fejlesztői): [htlearningacc/PROJ_metron
 
 ---
 
-## Képernyőképek (390 px — telefon)
+## Képernyőképek (412 px — telefon)
 
-| | |
-|---|---|
-| Fő képernyő, indítás előtt | Gyakorlásválasztás, folyamatos módok |
-| ![Fő képernyő](screenshots/01-home-idle.png) | ![Folyamatos módok](screenshots/02-continuous-methods.png) |
-| Meditáció (csengő + fa hal jelzések) | Sorozat: több szakasz, célok |
-| ![Meditáció](screenshots/03-meditation.png) | ![Sorozat](screenshots/04-sequence.png) |
-| Gyakorlási napló és statisztika | |
-| ![Gyakorlási napló](screenshots/05-practice-log.png) | |
+| | | |
+|---|---|---|
+| Fő képernyő, indítás előtt | Gyakorlásválasztás: folyamatos módok | Sorozat: mentés és részek |
+| ![Fő képernyő](screenshots/01-home-idle.png) | ![Folyamatos módok](screenshots/02-continuous-methods.png) | ![Sorozat](screenshots/03-sequence.png) |
 
 ---
 
@@ -59,4 +55,4 @@ Next.js · React · TypeScript · Tailwind CSS · Web Audio · PWA manifest + se
 - **Demo:** https://breath-metronome-phi.vercel.app  
 - **Forrás (fejlesztés):** https://github.com/htlearningacc/PROJ_metronom_cursor  
 
-*Képernyőképek: production build, Chromium 390×844, 2026.*
+*Képernyőképek: production build, Chromium 412×844, 2026.*
